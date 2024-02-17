@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#taskInput {
+    width: 70%;
+    margin-bottom: 10px;
+}
+
+#addButton {
+    margin-left: 5px;
+}
+
+#taskList {
+    list-style-type: none;
+    padding: 0;
+}
+
+.taskItem {
+    margin-bottom: 5px;
+}
+
+#output {
+    margin-top: 20px;
+    font-weight: bold;
+}
